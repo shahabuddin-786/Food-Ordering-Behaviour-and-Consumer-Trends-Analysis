@@ -1,0 +1,193 @@
+# Project Documentation
+
+## Project Title
+
+**Food Ordering Behaviour and Consumer Trends: A Structured Analysis of Choices and Habits**
+
+---
+
+## Abstract
+
+This project analyzes food ordering behavior and consumer trends using Tableau. The primary objective is to transform raw food order data into meaningful visualizations that help understand customer preferences, restaurant performance, delivery efficiency, and revenue patterns. Interactive dashboards and stories provide valuable insights that support data-driven decision-making for food delivery businesses.
+
+---
+
+## Problem Statement
+
+Food delivery platforms generate a large volume of customer transaction data. Without proper analysis, it becomes difficult to identify customer preferences, popular cuisines, peak ordering periods, and operational performance. This project addresses these challenges by developing interactive Tableau dashboards that convert raw data into actionable business insights.
+
+---
+
+## Objectives
+
+- Collect and organize food ordering data.
+- Prepare and clean the dataset for analysis.
+- Analyze customer ordering behavior.
+- Visualize business metrics using Tableau.
+- Build interactive dashboards.
+- Create Tableau Stories to communicate insights.
+- Generate recommendations based on analytical findings.
+
+---
+
+## Scope
+
+The project focuses on analyzing historical food ordering data to identify customer behavior, restaurant performance, payment preferences, delivery efficiency, and revenue trends. It is intended for educational purposes and demonstrates end-to-end data visualization using Tableau.
+
+---
+
+## Technologies Used
+
+- Tableau Desktop
+- Microsoft Excel / CSV
+- SQL (Optional)
+- GitHub
+
+---
+
+## Dataset Description
+
+The dataset includes the following information:
+
+- Order ID
+- Customer ID
+- Restaurant Name
+- Cuisine Type
+- Order Date
+- Order Time
+- Order Amount
+- Delivery Time
+- Payment Method
+- Customer Rating
+- City
+
+---
+
+## Project Workflow
+
+1. Data Collection
+2. Data Cleaning
+3. Data Preparation
+4. Data Visualization
+5. Dashboard Development
+6. Story Creation
+7. Performance Testing
+
+---
+
+## Dashboard Components
+
+### Key Performance Indicators (KPIs)
+
+- Total Orders
+- Total Revenue
+- Average Order Value
+- Average Delivery Time
+- Customer Satisfaction Rating
+- Total Customers
+
+### Visualizations
+
+- Orders by Cuisine
+- Revenue by Restaurant
+- Monthly Order Trend
+- Payment Method Distribution
+- Delivery Time Analysis
+- Customer Rating Analysis
+- City-wise Orders
+
+---
+
+## Business Insights
+
+The dashboard helps identify:
+
+- Most popular cuisines
+- Best-performing restaurants
+- Peak ordering periods
+- Customer spending patterns
+- Preferred payment methods
+- Delivery performance
+- Customer satisfaction trends
+
+---
+
+## Testing
+
+The following tests were performed:
+
+- Data source connection validation
+- Data accuracy verification
+- Dashboard functionality testing
+- Filter testing
+- KPI validation
+- Story navigation testing
+
+---
+
+## Expected Outcomes
+
+- Better understanding of customer ordering habits.
+- Improved business decision-making.
+- Identification of revenue-generating restaurants.
+- Enhanced delivery performance analysis.
+- Improved customer satisfaction tracking.
+
+---
+
+## Future Enhancements
+
+- Real-time data integration
+- Predictive analytics
+- Customer segmentation
+- Demand forecasting
+- Recommendation system
+- Tableau Server deployment
+
+---
+
+## Folder Structure
+
+```
+Food-Ordering-Behaviour/
+│
+├── Dataset/
+│   └── food_orders.csv
+│
+├── Tableau/
+│   ├── Food_Ordering_Analysis.twb
+│   └── Food_Ordering_Analysis.twbx
+│
+├── Dashboard/
+│   └── Dashboard_Screenshot.png
+│
+├── Story/
+│   └── Food_Ordering_Story.twbx
+│
+├── Documentation/
+│   ├── README.md
+│   └── Project_Report.pdf
+│
+└── Presentation/
+    └── Project_Presentation.pptx
+```
+
+---
+
+## Conclusion
+
+The **Food Ordering Behaviour and Consumer Trends** project demonstrates how Tableau can be used to analyze customer ordering patterns and business performance effectively. Through data preparation, visualization, dashboard development, and storytelling, the project provides meaningful insights into customer preferences, restaurant performance, delivery efficiency, and revenue trends. These insights can help businesses optimize operations, improve customer satisfaction, and make informed strategic decisions.
+
+---
+
+## Author
+
+**Your Name**
+
+Data Analytics with Tableau Project
+
+---
+
+## License
+
+This project is developed for educational and learning purposes only.
